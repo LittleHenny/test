@@ -121,6 +121,7 @@ main {
 }
 .help_support_element_question {
   position: relative;
+  padding: 10px 0;
 }
 .question_title {
   font-size: 16px;
